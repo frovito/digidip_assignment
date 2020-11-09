@@ -10903,3 +10903,11 @@ a.text-dark:focus {
   }
 }
 
+.card {
+  margin: 20px auto;
+}
+
+h3 {
+  margin: 20px auto;
+}
+
